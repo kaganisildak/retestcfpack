@@ -1,4 +1,7 @@
 Reverse Engineering | CFPack
+
 ProgrammerMan | CyberWarrior
 
-Bu paketin oluşturulma amacı tersine mühendislik alanında çeşitli derecelerde kişinin kendisini sınamasını sağlamak.
+2015 Eylül ayında can sıkıntısından sabit algoritma üzerine kurulu uygulamaları farklı araçlar ile karıştırarak vakit geçirmeyi amaçlamıştım, arşivimde durduğunu görünce işi farklı derecelerde kişinin kendini sınamasını sağlamaya çevirdim.
+
+Asıl amacım clean code'a ulaşmak olduğundan key kısmı önemsiz.
